@@ -27,7 +27,7 @@
 	<key>LSMinimumSystemVersion</key>
 	<string>$(MACOSX_DEPLOYMENT_TARGET)</string>
 	<key>NSHumanReadableCopyright</key>
-	<string>Copyright © Rafael Damasceno, GNU General Public License v3.</string>
+	<string>Copyright © Practical Cloud Solutions, GNU Public License from Fork</string>
 	<key>NSPrincipalClass</key>
 	<string>NSApplication</string>
 </dict>
